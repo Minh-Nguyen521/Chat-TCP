@@ -1,3 +1,2 @@
-module github.com/elliotforbes/go-websocket-tutorial
-
+module TCP_Server
 go 1.22.6
